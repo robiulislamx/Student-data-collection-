@@ -1,0 +1,6 @@
+{
+  "name": "Student Information Management System",
+  "description": "Enterprise-grade student information management system for registration, multi-role approval workflow, dynamic form building, and Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
